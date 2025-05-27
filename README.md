@@ -1,2 +1,2 @@
 # Core-Java-Practice
-variable and datatypes
+Variable and Datatypes
