@@ -1,4 +1,4 @@
 # Core-Java-Practice
 Variable and Datatypes
-br
+<br>
 Author - Chaitanya sakate
