@@ -1,2 +1,2 @@
-# core-java-practice
+# Core-Java-Practice
 variable and datatypes
